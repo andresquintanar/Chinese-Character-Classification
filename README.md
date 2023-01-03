@@ -1,5 +1,5 @@
 # Chinese-Character-Classification
-This project uses Keras Neural Networks to classify handwritten Chinese letters:
+This project uses Keras Neural Networks to classify handwritten Chinese letters
 
 Project Description:
 
