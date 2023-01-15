@@ -1,5 +1,5 @@
 # Chinese-Character-Classification
-This project uses Keras Neural Networks to classify handwritten Chinese letters
+This project uses Keras Neural Networks to classify handwritten Chinese letters. It plots the count of each Chinese number in dataset using Matplotlib. It also visualizes 25 random characters from the dataset. In addition to this, I scaled the pixel values of the images and partitioned the data into train and test sets. I then built a neural network model using Keras layers and trained it for 25 epochs. After, I was able to display the accuracy of the model alongside graphs of the loss and accuracy curves. After the model had been trained, I visualized 30 random misclassified images as well as the first 30 classified images. 
 
 Project Description:
 
